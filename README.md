@@ -23,3 +23,9 @@ Feel free to explore my repositories and reach out if you'd like to collaborate 
 
 ---
 
+## 💡 Fun Fact
+
+I enjoy tackling complex problems and turning them into user-friendly applications. When I'm not coding, you can find me exploring new technologies and contributing to open-source projects.
+
+---
+

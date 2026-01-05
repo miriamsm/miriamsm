@@ -23,9 +23,17 @@ System design and software architecture basics
 Writing clean, readable, and maintainable code
 
 ---
-## 📈 GitHub Stats
+## 🛠 Tools & Technologies
 
-![Miriam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=miriamsm&show_icons=true)
+<img src="https://logo.svgcdn.com/logos/java.svg" width="48" alt="Java logo" />&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="48" alt="JavaScript logo" />&nbsp;&nbsp;
+<img src="https://logo.svgcdn.com/logos/flutter.svg" width="48" alt="Flutter logo" />&nbsp;&nbsp;
+<img src="https://logo.svgcdn.com/l/nodejs.svg" width="48" alt="Node.js logo" />&nbsp;&nbsp;
+<img src="https://logo.svgcdn.com/logos/firebase.svg" width="100" alt="Firebase logo" />&nbsp;&nbsp;
+<img src="https://logo.svgcdn.com/l/postgresql.svg" width="48" alt="PostgreSQL logo" />&nbsp;&nbsp;
+<img src="https://logo.svgcdn.com/l/docker-icon.svg" width="48" alt="Docker logo" />&nbsp;&nbsp;
+<img src="https://logo.svgcdn.com/devicon/leetcode-original.svg" width="48" alt="LeetCode logo" />
+
 
 ---
 

@@ -45,8 +45,5 @@ I like turning abstract requirements into working features and thinking about ho
 
 I’m still exploring where I fit best within engineering, and I use this space to document that journey.
 
-
-
-
 ---
 

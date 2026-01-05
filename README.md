@@ -25,7 +25,7 @@ Writing clean, readable, and maintainable code
 ---
 ## 📈 GitHub Stats
 
-![Miriam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=miriamsm&show_icons=true&hide_title=true&count_private=true&hide=prs)
+![Miriam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=miriamsm&show_icons=true)
 
 ---
 
@@ -33,7 +33,7 @@ Writing clean, readable, and maintainable code
 
 - [LinkedIn](https://www.linkedin.com/in/miriam-almogren)
 - [Portfolio](https://miriamsm.github.io/portfolio)
-- 
+  
 This space showcases my academic projects, personal experiments, and ongoing learning as I explore different paths within software engineering.
 Feel free to explore my repositories and reach out if you'd like to collaborate or discuss exciting projects!
 
